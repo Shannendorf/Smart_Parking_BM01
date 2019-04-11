@@ -57,4 +57,4 @@ for dense_layer in dense_layers:
                       validation_split=0.3,
                       callbacks=[tensorboard])
 
-model.save('64x3-10epoch-new-CNN.model')
+model.save('64x3-10epoch-A+B-CNN.model')

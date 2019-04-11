@@ -5,7 +5,7 @@ import cv2
 import random
 import pickle
 
-DATADIR = "/home/shannen/Datasets/CNRPark_A"
+DATADIR = "/home/shannen/Datasets/CNRPark_A+B"
 CATEGORIES = ["free", "busy"]
 
 
